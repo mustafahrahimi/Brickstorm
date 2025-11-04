@@ -24,7 +24,7 @@ Control a paddle with arrow keys to bounce a ball and destroy cyan bricks.
 | Key       | Action               |
 |-----------|----------------------|
 | ← / →     | Move paddle          |
-| P         | Pause                |
+| Space     | Pause                |
 | ESC       | Quit                 |
 | HS List   | Show highscore       |
 | Que List  | Show last 3 games    |
@@ -39,4 +39,5 @@ Control a paddle with arrow keys to bounce a ball and destroy cyan bricks.
 ### Clone from GitHub
 ```bash
 git clone https://github.com/mustafahrahimi/Brickstorm.git
+
 cd Brickstorm
