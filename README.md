@@ -38,5 +38,5 @@ Control a paddle with arrow keys to bounce a ball and destroy cyan bricks.
 
 ### Clone from GitHub
 ```bash
-git clone https://github.com/your-username/breakout-game.git
-cd breakout-game
+git clone https://github.com/mustafahrahimi/Brickstorm.git
+cd Brickstorm
