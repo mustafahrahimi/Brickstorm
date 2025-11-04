@@ -14,7 +14,7 @@ Control a paddle with arrow keys to bounce a ball and destroy cyan bricks.
 - **Last 3 games**: Queue-style list in `last3.txt`.
 - Buttons: `HS List`, `Que List`.
 
-![Game Window](window.png)  
+![Game Window](imgs/window.png)  
 *Figure 1: Breakout game window*
 
 ---
